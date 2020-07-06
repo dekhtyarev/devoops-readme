@@ -1,3 +1,20 @@
+# Кубер на своём железе - плюсы, минусы, котики. 
+
+## RUS
+Вспомогательные материалы по докладу "_Кубер на своём железе - плюсы, минусы, котики._"
+
+- Презентация - 
+- Видео доклада - 
+- Любые вопросы по презентации - e.dekhtyarev@2gis.ru
+
+## ENG
+Support materials on the report "_Kuber on your hardware — pros, cons, cats_"
+
+- Presentation - 
+- Presentation video - 
+- Any questions about the presentation - e.dekhtyarev@2gis.ru
+
+
 # Счастливая жизнь с Kubernetes в продакшне
 
 ## RUS
