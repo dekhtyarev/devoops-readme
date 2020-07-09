@@ -3,7 +3,7 @@
 ## RUS
 Вспомогательные материалы по докладу "_Кубер на своём железе - плюсы, минусы, котики._"
 
-- Презентация - 
+- Презентация - https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing
 - Видео доклада - 
 - Любые вопросы по презентации - e.dekhtyarev@2gis.ru
 
