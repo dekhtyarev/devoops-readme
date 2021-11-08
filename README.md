@@ -1,17 +1,34 @@
+# Есть ли дружба между железом и облаком?
+
+## RUS
+Вспомогательные материалы по докладу "_Есть ли дружба между железом и облаком?_"
+
+- Презентация - 
+- Видео доклада - 
+- Любые вопросы по презентации - e.dekhtyarev@2gis.ru
+
+## ENG
+Support materials on the report "_Does friendship of hardware and cloud exist?_"
+
+- Presentation - 
+- Presentation video - 
+- Any questions about the presentation - e.dekhtyarev@2gis.ru
+
+
 # Кубер на своём железе - плюсы, минусы, котики. 
 
 ## RUS
 Вспомогательные материалы по докладу "_Кубер на своём железе - плюсы, минусы, котики._"
 
 - Презентация - https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing
-- Видео доклада - 
+- Видео доклада - https://youtu.be/D_i6xt7VSZ8
 - Любые вопросы по презентации - e.dekhtyarev@2gis.ru
 
 ## ENG
 Support materials on the report "_Kuber on your hardware — pros, cons, cats_"
 
-- Presentation - 
-- Presentation video - 
+- Presentation - https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing
+- Presentation video - https://youtu.be/D_i6xt7VSZ8
 - Any questions about the presentation - e.dekhtyarev@2gis.ru
 
 
