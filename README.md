@@ -5,14 +5,14 @@
 
 - Презентация - 
 - Видео доклада - 
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru
+- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / @edekhtyarev (telegram)
 
 ## ENG
 Support materials on the report "_Does friendship of hardware and cloud exist?_"
 
 - Presentation - 
 - Presentation video - 
-- Any questions about the presentation - e.dekhtyarev@2gis.ru
+- Any questions about the presentation - e.dekhtyarev@2gis.ru / @edekhtyarev (telegram)
 
 
 # Кубер на своём железе - плюсы, минусы, котики. 
