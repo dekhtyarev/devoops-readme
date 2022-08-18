@@ -3,15 +3,15 @@
 ## RUS
 Вспомогательные материалы по докладу "_Есть ли дружба между железом и облаком?_"
 
-- Презентация - 
-- Видео доклада - 
+- Презентация - https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing
+- Видео доклада - https://youtu.be/oS2FaPGcKko
 - Любые вопросы по презентации - e.dekhtyarev@2gis.ru / @edekhtyarev (telegram)
 
 ## ENG
 Support materials on the report "_Does friendship of hardware and cloud exist?_"
 
-- Presentation - 
-- Presentation video - 
+- Presentation - https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing
+- Presentation video - https://youtu.be/oS2FaPGcKko
 - Any questions about the presentation - e.dekhtyarev@2gis.ru / @edekhtyarev (telegram)
 
 
