@@ -1,3 +1,13 @@
+# Stateful в k8s, которого мы боимся
+
+## RUS
+Вспомогательные материалы по докладу "_Stateful в k8s, которого мы боимся_"
+
+- Презентация - https://go.2gis.com/Devoops2023
+- Видео доклада - 
+- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / edekhtyarev (telegram)
+
+
 # Есть ли дружба между железом и облаком?
 
 ## RUS
@@ -53,13 +63,3 @@ Support materials on the report "_Life of happiness with Kubernetes in productio
 - k8s-handle-example - https://github.com/2gis/k8s-handle-example
 - k8s-handle report recording - https://youtu.be/BhTWD1VWlLo
 - Any questions about the presentation - e.dekhtyarev@2gis.ru
-
-
-# Stateful в k8s, которого мы боимся
-
-## RUS
-Вспомогательные материалы по докладу "_Stateful в k8s, которого мы боимся_"
-
-- Презентация - https://go.2gis.com/Devoops2023
-- Видео доклада - 
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / edekhtyarev (telegram)
