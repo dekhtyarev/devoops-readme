@@ -1,65 +1,68 @@
-# Stateful в k8s, которого мы боимся
+# Доклады / Talks
 
-## RUS
-Вспомогательные материалы по докладу "_Stateful в k8s, которого мы боимся_"
+## Контакты / Contacts
 
-- Презентация - https://go.2gis.com/Devoops2023
-- Видео доклада - 
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / edekhtyarev (telegram)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [e.dekhtyarev@2gis.ru](mailto:e.dekhtyarev@2gis.ru)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) [@edekhtyarev](https://t.me/edekhtyarev)
 
+## Stateful в k8s, которого мы боимся
 
-# Есть ли дружба между железом и облаком?
+**RUS**  
+Вспомогательные материалы по докладу "_Stateful в k8s, которого мы боимся_".
 
-## RUS
-Вспомогательные материалы по докладу "_Есть ли дружба между железом и облаком?_"
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://go.2gis.com/Devoops2023)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Видео доклада](https://youtu.be/6gvg-FaGxbs?si=4_7XENVklqcFWg51)
 
-- Презентация - https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing
-- Видео доклада - https://youtu.be/oS2FaPGcKko
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / @edekhtyarev (telegram)
+**ENG**  
+Support materials for the talk "_Stateful in k8s we are afraid of_".
 
-## ENG
-Support materials on the report "_Does friendship of hardware and cloud exist?_"
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Slides](https://go.2gis.com/Devoops2023)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Talk video](https://youtu.be/6gvg-FaGxbs?si=4_7XENVklqcFWg51)
 
-- Presentation - https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing
-- Presentation video - https://youtu.be/oS2FaPGcKko
-- Any questions about the presentation - e.dekhtyarev@2gis.ru / @edekhtyarev (telegram)
+## Есть ли дружба между железом и облаком?
 
+**RUS**  
+Вспомогательные материалы по докладу "_Есть ли дружба между железом и облаком?_".
 
-# Кубер на своём железе - плюсы, минусы, котики. 
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Видео доклада](https://youtu.be/oS2FaPGcKko)
 
-## RUS
-Вспомогательные материалы по докладу "_Кубер на своём железе - плюсы, минусы, котики._"
+**ENG**  
+Support materials for the talk "_Does friendship of hardware and cloud exist?_".
 
-- Презентация - https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing
-- Видео доклада - https://youtu.be/D_i6xt7VSZ8
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Presentation](https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Presentation video](https://youtu.be/oS2FaPGcKko)
 
-## ENG
-Support materials on the report "_Kuber on your hardware — pros, cons, cats_"
+## Кубер на своём железе - плюсы, минусы, котики
 
-- Presentation - https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing
-- Presentation video - https://youtu.be/D_i6xt7VSZ8
-- Any questions about the presentation - e.dekhtyarev@2gis.ru
+**RUS**  
+Вспомогательные материалы по докладу "_Кубер на своём железе - плюсы, минусы, котики_".
 
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Видео доклада](https://youtu.be/D_i6xt7VSZ8)
 
-# Счастливая жизнь с Kubernetes в продакшне
+**ENG**  
+Support materials for the talk "_Kuber on your hardware — pros, cons, cats_".
 
-## RUS
-Вспомогательные материалы по докладу "_Счастливая жизнь с Kubernetes в продакшне_"
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Presentation](https://docs.google.com/presentation/d/1F0eU0cJgh1imQN1cLaZsPsgapJQ7ogwU9z7WFHV6P6g/edit?usp=sharing)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Presentation video](https://youtu.be/D_i6xt7VSZ8)
 
-- Презентация - https://goo.gl/tZfdHb
-- Видео доклада - https://youtu.be/E6O_TU_twf8
-- k8s-handle - https://github.com/2gis/k8s-handle
-- k8s-handle-example - https://github.com/2gis/k8s-handle-example
-- k8s-handle запись доклада - https://youtu.be/BhTWD1VWlLo
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru
+## Счастливая жизнь с Kubernetes в продакшне
 
-## ENG
-Support materials on the report "_Life of happiness with Kubernetes in production_"
+**RUS**  
+Вспомогательные материалы по докладу "_Счастливая жизнь с Kubernetes в продакшне_".
 
-- Presentation - https://goo.gl/tZfdHb
-- Presentation video - https://youtu.be/E6O_TU_twf8
-- k8s-handle - https://github.com/2gis/k8s-handle
-- k8s-handle-example - https://github.com/2gis/k8s-handle-example
-- k8s-handle report recording - https://youtu.be/BhTWD1VWlLo
-- Any questions about the presentation - e.dekhtyarev@2gis.ru
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://goo.gl/tZfdHb)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Видео доклада](https://youtu.be/E6O_TU_twf8)
+- k8s-handle – [GitHub](https://github.com/2gis/k8s-handle)
+- k8s-handle-example – [GitHub](https://github.com/2gis/k8s-handle-example)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [k8s-handle запись доклада](https://youtu.be/BhTWD1VWlLo)
+
+**ENG**  
+Support materials for the talk "_Life of happiness with Kubernetes in production_".
+
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Presentation](https://goo.gl/tZfdHb)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Presentation video](https://youtu.be/E6O_TU_twf8)
+- k8s-handle – [GitHub](https://github.com/2gis/k8s-handle)
+- k8s-handle-example – [GitHub](https://github.com/2gis/k8s-handle-example)
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [k8s-handle report recording](https://youtu.be/BhTWD1VWlLo)
