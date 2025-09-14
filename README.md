@@ -5,7 +5,7 @@
 
 - ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://go.2gis.com/Devoops2023)
 - ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) Видео доклада -
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) edekhtyarev (telegram)
+- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) edekhtyarev
 
 
 # Есть ли дружба между железом и облаком?
@@ -15,14 +15,14 @@
 
 - ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing)
 - ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Видео доклада](https://youtu.be/oS2FaPGcKko)
-- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @edekhtyarev (telegram)
+- Любые вопросы по презентации - e.dekhtyarev@2gis.ru / ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @edekhtyarev
 
 ## ENG
 Support materials on the report "_Does friendship of hardware and cloud exist?_"
 
 - ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Presentation](https://docs.google.com/presentation/d/1F6EmLg0femz9Wl1Va-BQlspZBFkxCzNaW9eRJ3nBAtw/edit?usp=sharing)
 - ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white) [Presentation video](https://youtu.be/oS2FaPGcKko)
-- Any questions about the presentation - e.dekhtyarev@2gis.ru / ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @edekhtyarev (telegram)
+- Any questions about the presentation - e.dekhtyarev@2gis.ru / ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @edekhtyarev
 
 
 # Кубер на своём железе - плюсы, минусы, котики. 
