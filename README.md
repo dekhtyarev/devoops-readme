@@ -5,6 +5,20 @@
 - ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) [e.dekhtyarev@2gis.ru](mailto:e.dekhtyarev@2gis.ru)
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) [@edekhtyarev](https://t.me/edekhtyarev)
 
+## N8n + AI для DevOps-процессов
+
+**RUS**  
+Вспомогательные материалы по докладу "_N8n + AI для DevOps-процессов_".
+
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Презентация](https://docs.google.com/presentation/d/1-_KyZmrEPFfBQDDQeVGJId2_aLofXxkmT68LgyqqOvE/edit?usp=sharing)
+- Видео будет позже
+
+**ENG**  
+Support materials for the talk "_N8n + AI for DevOps processes_".
+
+- ![Google Slides](https://img.shields.io/badge/Slides-FBBC05?style=flat&logo=googleslides&logoColor=white) [Presentation](https://docs.google.com/presentation/d/1-_KyZmrEPFfBQDDQeVGJId2_aLofXxkmT68LgyqqOvE/edit?usp=sharing)
+- Video coming soon
+
 ## Stateful в k8s, которого мы боимся
 
 **RUS**  
